@@ -69,4 +69,4 @@ while x=="y" or "Y":
         print("|            |")
         print("|  0       0 |")
         print("--------------")
-    x=input("Enter y to roll the jege")
+    x=input("Enter y to roll the dice")
